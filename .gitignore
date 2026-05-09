@@ -1,0 +1,23 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Jupyter
+datos/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Datos pesados (los CSV no van al repo)
+datos/*.csv
+datos/*.sav
+datos/*.xlsx
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.env

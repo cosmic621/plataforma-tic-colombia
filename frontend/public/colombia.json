@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "05",
+        "name": "Antioquia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5,
+          6.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "08",
+        "name": "Atlántico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9,
+          10.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "11",
+        "name": "Bogotá D.C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "13",
+        "name": "Bolívar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5,
+          8.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "15",
+        "name": "Boyacá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9,
+          5.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "17",
+        "name": "Caldas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5,
+          5.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "18",
+        "name": "Caquetá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "19",
+        "name": "Cauca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5,
+          2.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "20",
+        "name": "Cesar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5,
+          9.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "23",
+        "name": "Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9,
+          8.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "25",
+        "name": "Cundinamarca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1,
+          4.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "27",
+        "name": "Chocó"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9,
+          5.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "41",
+        "name": "Huila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2,
+          2.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "44",
+        "name": "La Guajira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5,
+          11.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "47",
+        "name": "Magdalena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0,
+          10.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "50",
+        "name": "Meta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0,
+          3.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "52",
+        "name": "Nariño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3,
+          1.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "54",
+        "name": "Norte de Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8,
+          7.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "63",
+        "name": "Quindío"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7,
+          4.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "66",
+        "name": "Risaralda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9,
+          5.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "68",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1,
+          6.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "70",
+        "name": "Sucre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1,
+          9.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "73",
+        "name": "Tolima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2,
+          4.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "76",
+        "name": "Valle del Cauca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5,
+          3.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "81",
+        "name": "Arauca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0,
+          6.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "85",
+        "name": "Casanare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0,
+          5.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "86",
+        "name": "Putumayo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "88",
+        "name": "San Andrés"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7,
+          12.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "91",
+        "name": "Amazonas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5,
+          -1.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "94",
+        "name": "Guainía"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5,
+          2.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "95",
+        "name": "Guaviare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6,
+          2.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "97",
+        "name": "Vaupés"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DPTO": "99",
+        "name": "Vichada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5,
+          4.8
+        ]
+      }
+    }
+  ]
+}

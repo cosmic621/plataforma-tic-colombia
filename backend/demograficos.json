@@ -1,0 +1,53 @@
+{
+  "por_edad": {
+    "5-17 años": {
+      "internet": 33.0,
+      "computador": 69.3,
+      "n": 64856
+    },
+    "18-35 años": {
+      "internet": 32.4,
+      "computador": 78.0,
+      "n": 62468
+    },
+    "36-60 años": {
+      "internet": 56.1,
+      "computador": 84.1,
+      "n": 73165
+    },
+    "60+ años": {
+      "internet": 63.3,
+      "computador": 93.9,
+      "n": 36905
+    }
+  },
+  "por_sexo": {
+    "Hombre": {
+      "internet": 50.2,
+      "computador": 80.4,
+      "n": 116098
+    },
+    "Mujer": {
+      "internet": 39.9,
+      "computador": 80.5,
+      "n": 124114
+    }
+  },
+  "por_etnia": {
+    "Indígena": {
+      "internet": 42.6,
+      "computador": 79.1,
+      "n": 154950
+    },
+    "Gitano/ROM": {
+      "internet": 50.0,
+      "computador": 82.0,
+      "n": 75405
+    },
+    "Raizal": {
+      "internet": 40.6,
+      "computador": 86.5,
+      "n": 9857
+    }
+  }
+}
